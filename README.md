@@ -13,9 +13,6 @@
 
 A gamer, a web designer, a coder. CSS for 3 years, JavaScript for 2 years.
 
-<img src="https://img.shields.io/badge/-Follow%20me-blue?style=flat-square?logo=twitter?link=https://twitter.com/enlixeid">
-https://img.shields.io/badge/-Follow%20me-blue?style=flat-square?logo=twitter?link=https://twitter.com/enlixeid
-
 ---
 
 Repos:
