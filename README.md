@@ -3,7 +3,8 @@
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=enlixe&title_color=fff&text_color=fff&icon_color=ccc&bg_color=000&hide_title=true&show_icons=true" />-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=enlixe&show_icons=true&hide_title=true">&nbsp;&nbsp;&nbsp;&nbsp;<img height="165"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=enlixe&layout=compact&langs_count=10" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Enlixe">
+  
 - 🔭 I’m currently working at home
 - 📮 Talk to me via [Email](mailto:enlixeid@gmail.com)
 - 📱 Find fun on my other website [Enlixer](https://enlixer.carrd.co)
