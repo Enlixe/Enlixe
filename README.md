@@ -1,7 +1,6 @@
 ### Hi there, I'm Enlixe 👋
 
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=enlixe&title_color=fff&text_color=fff&icon_color=ccc&bg_color=000&hide_title=true&show_icons=true" />-->
-<img src="https://github-readme-stats.vercel.app/api?username=Enlixe&hide_title=true&show_icons=true"><br>
   
 - 🔭 I’m currently working at home
 - 📮 Talk to me via [Email](mailto:enlixeid@gmail.com)
