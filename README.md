@@ -16,7 +16,8 @@ A gamer, a web designer, a coder. CSS for 3 years, JavaScript for 2 years.
 
 Repos:
 
-- 🤖 [Hype-Bot](https://github.com/Enlixe/HYPE-Bot) The bot you definitely you like
+- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=enlixe&repo=HYPE-Bot)](/)
+<!-- - 🤖 [Hype-Bot](https://github.com/Enlixe/HYPE-Bot) The bot you definitely you like -->
 
 <!--
 **Enlixe/Enlixe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
