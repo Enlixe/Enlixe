@@ -1,7 +1,7 @@
 ### Hi there, I'm Enlixe 👋
 
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=enlixe&title_color=fff&text_color=fff&icon_color=ccc&bg_color=000&hide_title=true&show_icons=true" />-->
-<img src="https://github-readme-stats.vercel.app/api?username=Enlixe&hide_title=true&show_icons=true"><br><img height="165"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=enlixe&layout=compact&langs_count=10" />
+<img src="https://github-readme-stats.vercel.app/api?username=Enlixe&hide_title=true&show_icons=true"><br>
   
 - 🔭 I’m currently working at home
 - 📮 Talk to me via [Email](mailto:enlixeid@gmail.com)
@@ -14,9 +14,15 @@ A gamer, a web designer, a coder. CSS for 3 years, JavaScript for 2 years.
 
 ---
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Enlixe&hide_title=true&show_icons=true)
+<br>
+[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=enlixe&layout=compact&langs_count=4)](/)
+
+---
+
 Repos:
 
-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=enlixe&repo=HYPE-Bot)](/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=enlixe&repo=HYPE-Bot)](/)
 <!-- - 🤖 [Hype-Bot](https://github.com/Enlixe/HYPE-Bot) The bot you definitely you like -->
 
 <!--
