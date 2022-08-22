@@ -9,4 +9,6 @@
 
 A gamer, a web designer, a coder. HTML CSS for 4 years, JavaScript for 3 years.
 
+---
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=enlixe&theme=tokyonight&show_icons=true&count_private=true)
