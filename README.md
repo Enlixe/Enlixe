@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enlixe&theme=monokai" alt="enlixe" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/sh11roo" target="blank"><img src="https://img.shields.io/twitter/follow/sh11roo?logo=twitter&style=for-the-badge" alt="sh11roo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/e_n_l_x" target="blank"><img src="https://img.shields.io/twitter/follow/e_n_l_x?logo=twitter&style=for-the-badge" alt="e_n_l_x" /></a> </p>
 
 - 🔭 I’m currently working on [Shizu](https://github.com/Enlixe/Shizu)
 
